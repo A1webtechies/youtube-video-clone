@@ -1,7 +1,7 @@
 ## ReactApp With Youtube Data Api v3
 
 ![](mocups/youtube-data-api-v3-react-app.png)
-I decided to build a simple react app with using YouTube API which most of you may hear this API. Purpose of sharing this is to help beginners and other developers to gain a better understanding of React and using API with React.
+  I decided to build a simple react app with using YouTube API which most of you may hear this API. Purpose of sharing this is to help beginners and other developers to gain a better understanding of React and using API with React.
 I will use default CLI(create-react-app) for making this app. CLI stands for Command Line Interface by the way. For styling our app I ’ve decided to use Semantic UI because it allows me to pass styling stuff quickly, in this article we will only focus on React things.
 For styling I m have used materializecss (https://materializecss.com/)
 You can find the mocups of app inside the mocups folder

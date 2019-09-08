@@ -9,3 +9,12 @@
 .video-item img {
   max-width: 180px;
 }
+.title {
+  padding: 0px 5px 0px 8px;
+}
+.video-detail h5 {
+  padding: 0px 5px 0px 8px;
+}
+.video-detail p {
+  padding: 0px 5px 0px 8px;
+}
